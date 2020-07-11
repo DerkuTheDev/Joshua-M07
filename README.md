@@ -20,4 +20,4 @@
 > And join my [Discord Server](https://discord.gg/aZCZTRQ "It's good 😉")!
 >
 > - Invite my [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=701741237966995456&permissions=8&scope=bot "Pls do it")!
-[![https://discordapp.com/api/guilds/707669607057719427/embed.png](https://discord.gg/aZCZTRQ)]
+[![Discord Server](https://discordapp.com/api/guilds/707669607057719427/embed.png)](https://discord.gg/aZCZTRQ)
