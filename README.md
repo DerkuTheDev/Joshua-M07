@@ -18,3 +18,5 @@
 >
 > - Make sure to check out my [Repositories](https://github.com/Joshua-M07?tab=repositories "I hope you'll like them 😊")!
 > And join my [Discord Server](https;///discord.gg/aZCZTRQ "It's good 😉")!
+>
+> - Invite my [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=701741237966995456&permissions=8&scope=bot "Pls do it)!
