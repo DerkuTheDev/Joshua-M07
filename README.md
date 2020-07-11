@@ -1,6 +1,6 @@
 ### Hi there i'm Derku/Joshua-M07👋
 
-![My PFP 😉](https://avatars2.githubusercontent.com/u/64021298?s=460&u=2dc205689a2814d0541a29f76abfe43ffe60f6b9&v=4 "My PFP 😉")
+![My PFP 😉](https://avatars2.githubusercontent.com/u/64021298?s=460&u=2dc205689a2814d0541a29f76abfe43ffe60f6b9&v=4&height=23 "My PFP 😉")
 
 ## What am i doing? 
 - 🔭 I’m currently working on Website & Discord Bot
