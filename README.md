@@ -14,4 +14,4 @@
 
 > Make sure to check out my [Repositories](https://github.com/Joshua-M07?tab=repositories "I hope you'll like them ")!
 >
-> And join my [Discord Server](https;///discord.gg/aZCZTRQ "It's good 😉")!
+> > And join my [Discord Server](https;///discord.gg/aZCZTRQ "It's good 😉")!
