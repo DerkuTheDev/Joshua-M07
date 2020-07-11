@@ -12,6 +12,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have ADHD and Sensory Processing Disorder
 
-> Make sure to check out my [Repositories](https://github.com/Joshua-M07?tab=repositories "I hope you'll like them ")!
+> #### My socials!
+> 
+> - My [Personal Instagram](https://www.instagram.com/joshua._.m07/ "Some weird pics tbh XD") and my [Devloper Instagram](https://www.instagram.com/derkuthedev/)!
 >
-> > And join my [Discord Server](https;///discord.gg/aZCZTRQ "It's good 😉")!
+> - Make sure to check out my [Repositories](https://github.com/Joshua-M07?tab=repositories "I hope you'll like them 😊")!
+> And join my [Discord Server](https;///discord.gg/aZCZTRQ "It's good 😉")!
