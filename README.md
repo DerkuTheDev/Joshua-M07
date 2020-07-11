@@ -12,4 +12,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have ADHD and Sensory Processing Disorder
 
-### Make sure to check out my [Repositories](https://github.com/Joshua-M07?tab=repositories "Check them out!")
+### Make sure to check out my [Repositories](https://github.com/Joshua-M07?tab=repositories "Check them out!")!
