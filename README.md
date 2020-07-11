@@ -6,7 +6,7 @@
 
 ## Do i need help?
 - 🤔 I’m looking for help with my Website
-- 📫 How to reach me: Email me @ jjmatthews2007@gmail.com
+- 📫 How to reach me? Email me @ jjmatthews2007@gmail.com or join my [Discord Server]("https://discord.gg/aZCZTRQ" Yeah it's a good server 😉)
 
 ## About me!
 - 😄 Pronouns: He/Him
