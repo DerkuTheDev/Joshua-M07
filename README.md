@@ -14,5 +14,3 @@
 
 - Make sure to check out my [Repositories](https://github.com/Joshua-M07?tab=repositories "Check them out!")!
 - And join my [Discord Server](https;///discord.gg/aZCZTRQ "It's good 😉")!
-
-<title>Derku</title>
